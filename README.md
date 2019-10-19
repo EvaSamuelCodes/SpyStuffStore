@@ -18,6 +18,7 @@ And that is this, the very odd thing I've just posted.
 Basically just your average, every day, totally charming shopping cart demo. It's basic, but functional. And I intentionally made some architecture decisions in writing this for the purpose of being talked about in an interview situation. 
 
 ***Some caveats:***
+* Checkout doesn't quite work
 * bear in mind that I wrote this in a weekend
 * understand that I didn't have time to finish it
 * also understand that there are things I wanted to implement that were part of the spec, like sales tax calculation, which I didn't have time to get to before the monday morning deadline.
